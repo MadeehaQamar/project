@@ -11,6 +11,8 @@ tool that visually demonstrates how various sorting algorithms work in real-time
 2. Sorting Algorithms
 3. Control Module
 4. Visualization module
+
+   
 User interface (UI):
 The User Interface (UI) module in the sorting visualizer is the interface through which users
 interact with the system, offering a visually engaging and user-friendly environment. It
